@@ -2,17 +2,15 @@
 
 ## Über mich:
 - Ich arbeite gerade an einem 3D Jump & Run Spiel
-- Ich lerne gerade Unity und C#
-
-- Ich habe mit HTML, CSS und JavaScript angefangen Programmieren zu lernen und dann Python und dann C#.
+- Ich lerne aktuell Unity und C#
 
 
-  ## Programmierer Sprachen, mit denen ich zurzeit am meisten arbeite:
+  ## Programmiersprachen, mit denen ich aktuell am meisten arbeite
   - Python
   - C#
 
 
- ## Programmierer Sprachen, die ich am Lernen bin:
+ ## Programmiersprachen, die ich gerade lerne
   - HTML, CSS & JavaScript
   - Python
-  - C# (zu Zeit nur C# wegen Unity)
+  - C# (momentan hauptsächlich wegen Unity)
