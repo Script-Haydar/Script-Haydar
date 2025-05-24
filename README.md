@@ -1,6 +1,6 @@
 ## Script Haydar
 
-## Über mich:
+## Über mich
 - Ich arbeite gerade an einem 3D Jump & Run Spiel
 - Ich lerne aktuell Unity und C#
 
