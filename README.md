@@ -5,12 +5,16 @@
 - Ich lerne aktuell Unity und C#
 
 
-  ## Programmiersprachen, mit denen ich aktuell am meisten arbeite
-  - Python
-  - C#
+## Programmiersprachen, mit denen ich aktuell am meisten arbeite
+- Python
+- C#
 
 
- ## Programmiersprachen, die ich gerade lerne
-  - HTML, CSS & JavaScript
-  - Python
-  - C# (momentan hauptsächlich wegen Unity)
+## Programmiersprachen, die ich gerade lerne
+- HTML, CSS & JavaScript
+- Python
+- C# (momentan hauptsächlich wegen Unity)
+
+
+## Links:
+<p> <a href="https://ali-game-dev.itch.io">Mein Itch.Io Account</a> </p>
