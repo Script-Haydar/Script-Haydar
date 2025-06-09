@@ -17,8 +17,8 @@
 
 
 ## Links:
-<p> <a href="https://script-haydar.itch.io">Mein Itch.Io Account</a> </p>
-<p>Hier hat es Spiele die ich Programmiert habe.</p>
+<p> <a href="https://script-haydar.itch.io">Mein Itch.io Account</a> </p>
+<p>Hier hat es Spiele, die ich programmiert habe.</p>
 
 <!-- <p>Ein paar der Besten Spiele von mir:</p> -->
 <!-- <p> <a href="">Spiel Name1</a> </p> -->
