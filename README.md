@@ -8,6 +8,7 @@
 ## Programmiersprachen, mit denen ich aktuell am meisten arbeite
 - Python
 - C#
+- JavaScript
 
 
 ## Programmiersprachen, die ich gerade lerne
