@@ -1,7 +1,7 @@
 ## Script Haydar
 
 ## Über mich
-- Ich arbeite gerade an einem "D Jump & Run Spiel
+- Ich arbeite gerade an einem 2D Jump & Run Spiel
 - Ich lerne aktuell Godot Engine und GDScript
 
 
