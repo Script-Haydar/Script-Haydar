@@ -1,8 +1,8 @@
 ## Script Haydar
 
 ## Über mich
-- Ich arbeite gerade an einem 3D Jump & Run Spiel
-- Ich lerne aktuell Unity und C#
+- Ich arbeite gerade an einem "D Jump & Run Spiel
+- Ich lerne aktuell Godot Engine und GDScript
 
 
 ## Programmiersprachen, mit denen ich aktuell am meisten arbeite
@@ -14,7 +14,7 @@
 ## Programmiersprachen, die ich gerade lerne
 - HTML, CSS & JavaScript
 - Python
-- C# (momentan hauptsächlich wegen Unity)
+- GDScript (momentan hauptsächlich wegen Godot Engine)
 
 
 ## Links:
